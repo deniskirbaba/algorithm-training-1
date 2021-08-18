@@ -41,3 +41,16 @@ Asymptotic complexity of the resulting algorithm: O(1)
 Given three natural numbers. Is it possible to build a triangle with such sides. If possible, print the line YES, otherwise print the line NO.
 
 Asymptotic complexity of the resulting algorithm: O(1)
+
+## Task 7 #
+
+Phone numbers in the mobile phone address book have one of the following formats:
+
++7 <code> <number>
+
+8 <code> <number>
+
+<number>
+
+Where <number> is seven digits and <code> is three digits or three digits in parentheses. If the code is not specified, then it is considered to be 495. In addition, a “-” sign can be inserted between any two digits in the telephone number entry.
+At the moment, there are only three phone numbers recorded in the address book of Den's phone, and he wants to write another one there. But he cannot understand if such a number has already been recorded in the phone book.

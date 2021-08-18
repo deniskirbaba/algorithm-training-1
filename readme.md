@@ -52,8 +52,15 @@ Phone numbers in the mobile phone address book have one of the following formats
 Where 'number' is seven digits and 'code' is three digits or three digits in parentheses. If the code is not specified, then it is considered to be 495. In addition, a “-” sign can be inserted between any two digits in the telephone number entry.
 At the moment, there are only three phone numbers recorded in the address book of Den's phone, and he wants to write another one there. But he cannot understand if such a number has already been recorded in the phone book.
 
+Asymptotic complexity of the resulting algorithm: O(1)
+
 ## Task 8 #
 
 Solve the equation in whole numbers:
 
+![image](https://user-images.githubusercontent.com/75897943/129964476-562da340-106a-41e0-80c6-4608a787b965.png)
+
 a, b, c - given integers: find all solutions or report that there are no integer solutions.
+
+
+Asymptotic complexity of the resulting algorithm: O(1)

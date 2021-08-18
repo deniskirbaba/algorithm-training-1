@@ -35,3 +35,9 @@ The air conditioner is powerful enough, therefore, when set to the correct opera
 It is required to write a program that determines the temperature, which will be established in the room in an hour, based on the set temperature in the 'troom' room, the desired temperature 'tcond' on the air conditioner and the operating mode 'mode'.
 
 Asymptotic complexity of the resulting algorithm: O(1)
+
+## Task 6 #
+
+Given three natural numbers. Is it possible to build a triangle with such sides. If possible, print the line YES, otherwise print the line NO.
+
+Asymptotic complexity of the resulting algorithm: O(1)

@@ -1,4 +1,4 @@
-# Algorithms tasks from Yandex algorithm training #
+# Tasks from Yandex algorithm training #
 
 ## Task 1 #
 

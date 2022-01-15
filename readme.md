@@ -70,3 +70,9 @@ Asymptotic complexity of the resulting algorithm: O(1)
 An ambulance team went on call to one of the separated areas. Unfortunately, when the dispatcher received the call, he managed to write down only the house address and k1 apartment number, and then the connection was interrupted. However, he recalled that at the same address of the house some time ago, an ambulance drove to apartment k2, which is located at entrance p2 on floor n2. It is known that a house has m floors and the number of apartments on each staircase is the same. Write a program that will deduct the number of entrance p1 and the number of floor n1 of apartment k1.
 
 Print two numbers p1 and n1. If the input does not allow you to unambiguously identify p1 or n1, instead of the corresponding number, print 0. If the input is inconsistent, print two numbers –1.
+
+## Task 10 #
+
+![image](https://user-images.githubusercontent.com/75897943/149641122-51b4a0a8-ea0e-4b7d-b571-5c3b674ada42.png)
+![image](https://user-images.githubusercontent.com/75897943/149641126-e2b4d651-fa76-4844-a8ec-1035a0d49595.png)
+
